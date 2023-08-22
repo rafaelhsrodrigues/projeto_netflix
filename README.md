@@ -1,2 +1,2 @@
 # projeto_netflix
-Analise de dados utilizando um dataset com informações de series da Netflix.
+Analise de dados utilizando informações das series da Netflix.
