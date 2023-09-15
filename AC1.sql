@@ -1,5 +1,5 @@
 /*
-PROJETO NETFLIX: Atraves dos dados da plataforma, analisar quais tipos de series fazem sucesso no site de Reviews
+PROJETO NETFLIX: Atraves de dados, analisar quais tipos de series fazem sucesso no site de Reviews
 e encontrar algum padrão para a Netflix investir em uma proxima produção
 */
 
@@ -7,7 +7,6 @@ e encontrar algum padrão para a Netflix investir em uma proxima produção
 CREATE DATABASE projeto_netflix
 
 
---Após criar o DB, transformei o dataset para xlsm, pois em cvs o separador estava como virgula causando erro ao importar os dados
 --Tarefas -> Importar dados
 
 --Verificando se a importação ocorreu
